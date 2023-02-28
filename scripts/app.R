@@ -39,7 +39,7 @@ factor_cols <- c("neighborhood", "tax_class_at_present", "building_class_categor
 # To obtain New York Map, Use Geocode Google AP
 
 # Register the google api key
-register_google(key = "AIzaSyA-StcS6eRfgWRQuhBT7fLwAfHd1SbHrSI") # datacommunication607@gmail.com
+register_google(key = "XYZ")
 
 # Set center to New York
 loc = c(lon = -73.97, lat = 40.79)
